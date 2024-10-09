@@ -15,6 +15,8 @@ This project relies upon the work of librarians, digitization technicians, and w
 
 [New York Public Library Yizkor Book Collection](https://digitalcollections.nypl.org/collections/yizkor-book-collection#/?tab=navigation)
 
+[Data and Code for: Forced Migration and Human Capital: Evidence from Post-WWII Population Transfers, OpenICPSR project 115202, Version 1](https://www.openicpsr.org/openicpsr/project/115202/version/V1/view?path=/openicpsr/115202/fcr:versions/V1/Readme.pdf&type=file#)
+
 
 ## Metadata
 

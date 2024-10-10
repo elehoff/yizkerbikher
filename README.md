@@ -25,3 +25,7 @@ Information *about* these memorial books helps us to understand them as a corpus
 ## Text
 
 Information *within* these memroaial books helps us to understand the world they document. 
+
+notes about coding choices
+=====
+In the case of items published over multiple years (e.g., Zgierz, Poland Memorial Book Zgierz (Poland) 51°51' / 19°25' Translation of Sefer Zgierz, mazkeret netsal le-kehila yehudit be-Polin Edited by: David Shtockfish (Sztokfisz), Sh Kanc, Z. Fisher Published in Tel Aviv, 1975-86), the publication year was set in the middle of this range (i.e., 1980).

@@ -32,4 +32,6 @@ notes about coding choices
 =====
 In the case of items published over multiple years (e.g., Zgierz, Poland Memorial Book Zgierz (Poland) 51°51' / 19°25' Translation of Sefer Zgierz, mazkeret netsal le-kehila yehudit be-Polin Edited by: David Shtockfish (Sztokfisz), Sh Kanc, Z. Fisher Published in Tel Aviv, 1975-86), the publication year was set in the middle of this range (i.e., 1980).
 
+If items were not published, the value "publication date" was updated with a best guess of latest possible date of composition. 
+
 ### OCR Text

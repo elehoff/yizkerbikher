@@ -1,7 +1,7 @@
 # yizkerbikher
 Digital Approaches to Reading Postwar Memorial Books from Jewish Europe
 
-This is a data repository for machine-readable texts from *yizkor bikher*, memorial books published by the Eastern European Jewish diaspora in the wake of the Second World War.
+This is a data repository for machine-readable texts from *yizker bikher*, memorial books published by the Eastern European Jewish diaspora in the wake of the Second World War.
 
 This page serves as a guide to this research project. 
 
